@@ -6,6 +6,10 @@
 ![結果](result.png)
 - 工夫した点：xxx
 
+## 使用したテクスチャ
+https://polyhaven.com/a/blue_photo_studio
+https://polyhaven.com/a/corrugated_iron_02
+
 # 進め方
 
 - 本リポジトリ (tpu-game-2025/PGWS4_8_cube_maps)をforkしてください
