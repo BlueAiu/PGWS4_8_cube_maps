@@ -4,7 +4,7 @@
 # 結果画像
 
 ![結果](result.png)
-- 工夫した点：xxx
+- 工夫した点：球面の屈折と再帰反射する立方体（コーナーキューブ）を実装した
 
 ## 使用したテクスチャ
 https://polyhaven.com/a/blue_photo_studio
